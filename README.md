@@ -7,4 +7,4 @@
 - **Email**: [maxforamont@live.cl](maxforamont@live.cl)
 
 ## Acerca de mí
-Soy Maximiliano, un desarrollador web con experiencia en RRHH y programación
+Soy Maximiliano, un desarrollador web con experiencia en RRHH y programación, Psicólogo rescatista del grunge.
